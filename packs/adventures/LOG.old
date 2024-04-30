@@ -1,0 +1,7 @@
+2024/04/30-01:23:34.833 b144 Recovering log #40
+2024/04/30-01:23:34.836 b144 Delete type=0 #40
+2024/04/30-01:23:34.837 b144 Delete type=3 #38
+2024/04/30-01:29:09.543 d554 Level-0 table #45: started
+2024/04/30-01:29:09.570 d554 Level-0 table #45: 374409 bytes OK
+2024/04/30-01:29:09.571 d554 Delete type=0 #43
+2024/04/30-01:29:09.572 d554 Manual compaction at level-0 from '!adventures!J0LxI3SzsDNEwdvP' @ 72057594037927935 : 1 .. '!adventures!J0LxI3SzsDNEwdvP' @ 0 : 0; will stop at (end)

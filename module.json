@@ -1,0 +1,58 @@
+{
+  "id": "sfs-6-99-the-end-awakens",
+  "title": "SFS 6-99: The End Awakens",
+  "description": "A Starfinder Society Special designed for 1st- through 4th-level characters (subtiers 1-2 & 3-4).\nThe Szandite Collective is an alliance of seven planets spread across four adjacent star systems in Near Space, and connected by a psychic network of szandite crystals. Although the Collective has consisted of seven planets for all of its post-Gap history, long ago, it once numbered eight, as the planet Krethiskar failed to reconnect following the Gap. With only an approximate idea of where the planet existed in relation to the rest of the Collective home worlds, Krethiskar is lost, and progress on its rediscovery is painfully slow.\nPalivhar Chooser of Hues, a respected scholar, astronomer, and member of the Starfinder Society’s Forum, is a citizen of the Szandite Collective and has long sought the missing planet Krethiskar. After decades of sifting through psychic echoes stored within szandite crystals, leveraging potent divinations, and cross referencing the Starfinder Society’s vast galactic databases—all to meet with failure—Palivhar experienced a vivid, recurring dream of a voice, reaching across time and space, to guide them to Krethiskar. Following their dreams into the unexplored reaches of Near Space, Palivhar discovered the very planet that had eluded them for so long: Krethiskar.\nNow, Palivhar leads an expedition of Starfinders to Krethiskar’s surface, to survey the planet, locate its szandite crystals, and determine what happened to the citizens of this lost collective. Unfortunately for the Starfinder Society, Krethiskar is a huskworld consumed by the voracious Swarm in ages past. Palivhar’s survey expedition is doomed to become a desperate fight for survival, as the hibernating Swarm awaken. Can you escape the planet alive?\nWritten by Joseph Blomquist and Mike Kimmel",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Klaus K (avagdu)",
+      "discord": "avagdu",
+      "url": "https://www.mywebsite.com/",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.315"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "sfrpg",
+        "manifest": "https://raw.githubusercontent.com/foundryvtt-starfinder/foundryvtt-starfinder/master/src/system.json",
+        "type": "system",
+        "compatibility": {
+          "minimum": "0.25.2",
+          "verified": "0.25.2"
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "6-99-items",
+      "label": "6-99 Items",
+      "path": "packs/items",
+      "type": "Item",
+      "system": "sfrpg",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "6-99-adventures",
+      "label": "6-99 Adventures",
+      "path": "packs/adventures",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "manifest": "https://gitlab.com/encounterlibrary/my-content-6-99/-/raw/main/6-99.json",
+  "download": "https://gitlab.com/encounterlibrary/my-content-6-99/-/raw/main/sfs-6-99-the-end-awakens.zip"
+}
