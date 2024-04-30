@@ -7,7 +7,7 @@
     {
       "name": "Klaus K (avagdu)",
       "discord": "avagdu",
-      "url": "https://www.mywebsite.com/",
+      "url": "https://github.com/avagdumortesin/sfs-6-99-the-end-awakens",
       "flags": {}
     }
   ],
@@ -53,6 +53,6 @@
       "flags": {}
     }
   ],
-  "manifest": "https://gitlab.com/encounterlibrary/my-content-6-99/-/raw/main/6-99.json",
-  "download": "https://gitlab.com/encounterlibrary/my-content-6-99/-/raw/main/sfs-6-99-the-end-awakens.zip"
+  "manifest": "https://raw.githubusercontent.com/avagdumortesin/sfs-6-99-the-end-awakens/master/module.json",
+  "download": "https://github.com/avagdumortesin/sfs-6-99-the-end-awakens/archive/refs/heads/main.zip"
 }
